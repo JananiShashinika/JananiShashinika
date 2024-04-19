@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Janani Shashinika</h1>
 <h3 align="center">A passionate web developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jananishashinika&label=Profile%20views&color=0e75b6&style=flat" alt="jananishashinika" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jananishashinika" alt="jananishashinika" /></a> </p>
 
 - 🔭 I’m currently working on [Laravel](projects)
 
@@ -12,6 +9,10 @@
 - 💬 Ask me about **react**
 
 - 📫 How to reach me **janashashi5@gmail.com**
+  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jananishashinika&label=Profile%20views&color=0e75b6&style=flat" alt="jananishashinika" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jananishashinika" alt="jananishashinika" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
