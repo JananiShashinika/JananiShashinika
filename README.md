@@ -27,7 +27,7 @@
 <p align="center">
 <a href="https://linkedin.com/in/janani-shashinika-3080431a2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="janani-shashinika-3080431a2" height="30" width="40" /></a>
 <a href="https://kaggle.com/janani shashinika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="janani shashinika" height="30" width="40" /></a>
-<a href="https://fb.com/janani shashinika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="janani shashinika" height="30" width="40" /></a>
+<a href="https://m.facebook.com/people/Janani-Shashinika/100085117182389/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="janani shashinika" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/p.j.v.s. kariyawasam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="p.j.v.s. kariyawasam" height="30" width="40" /></a>
 </p>
 
