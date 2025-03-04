@@ -11,7 +11,7 @@
   
 <td width="50%" align="left">
 
-- 🔭 I’m currently working on [React & Laravel](projects)
+- 🔭 I’m currently working on [React] & [Laravel] (projects)
   
 - 🌱 I’m interested in learning more about **Spring Boot**
   
