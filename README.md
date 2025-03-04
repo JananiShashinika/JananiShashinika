@@ -11,11 +11,13 @@
   
 <td width="50%" align="left">
 
-- 🔭 I’m currently working on [Laravel](projects)
+- 🔭 I’m currently working on [React] & [Laravel](projects)
+  
+- 🌱 I’m interested in learning more about **Spring Boot**
+  
+- 🔥 These days, I'm exploring **AWS Cloud with DevOps, Kubernetes & CI/CD pipelines**
 
-- 🌱 I’m currently learning **Express JS and Next JS**
-
-- 💬 Ask me about **react**
+- 💬 Ask me about React, Laravel, Spring boot technologies with building full-stack applications
 
 - 📫 How to reach me **janashashi5@gmail.com**
 </td>
